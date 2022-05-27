@@ -1,0 +1,9 @@
+{
+	"ip":"directplus.aternos.me",
+	"port": 16837,
+	"name": "alwaysonline007007",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 88888888",
+	"login-cmd":"/login 88888888"
+}
